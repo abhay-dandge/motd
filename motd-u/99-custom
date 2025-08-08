@@ -1,0 +1,5 @@
+#!/bin/bash
+echo "🚨 Reminder: This server is for internal use only!"
+echo "📅 Date: $(date)"
+echo "📡 Hostname: $(hostname)"
+echo "Test 123"
