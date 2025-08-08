@@ -2,4 +2,4 @@
 echo "🚨 Reminder: This server is for internal use only!"
 echo "📅 Date: $(date)"
 echo "📡 Hostname: $(hostname)"
-echo "Test 123"
+echo "Test 123| 123 again"
